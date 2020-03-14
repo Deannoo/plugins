@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 0.0.2
+Plugin-Id: demonicgorillas-plugin
+Plugin-Provider: OpenOSRS
+Plugin-Description: Count demonic gorilla attacks and display their next
+  possible attack styles
+Plugin-License: 3-Clause BSD License
+
